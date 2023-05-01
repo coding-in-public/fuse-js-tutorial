@@ -1,0 +1,148 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --clr-bg: 233 21.1% 13.9%;
+  --clr-bg-muted: 234 21.1% 27.8%;
+  --clr-txt: 260 60% 99%;
+  --clr-txt-muted: 223 13.7% 80%;
+  --clr-muted: 236 25.7% 22.2%;
+  --clr-accent: 260 90.7% 53.7%;
+  --clr-secondary: 41 99% 58.8%;
+  --clr-tertiary: 183 91.3% 50.4%;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 2rem;
+  background-color: hsl(var(--clr-bg));
+  color: hsl(var(--clr-txt));
+}
+
+main {
+  display: grid;
+  place-items: center;
+  gap: 2rem;
+  width: 800px;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+form,
+input {
+  font: inherit;
+  width: 100%;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+input {
+  padding: 0.4rem 0.8rem;
+  border: 2px solid hsl(var(--clr-secondary));
+  border-radius: 0.25rem;
+  background-color: hsl(var(--clr-bg-muted));
+  color: hsl(var(--clr-txt));
+  transition: box-shadow 200ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+input:focus {
+  outline: 1px solid transparent;
+}
+
+input:focus-visible {
+  box-shadow: 0 0 0 3px hsl(var(--clr-bg)), 0 0 0 6px hsl(var(--clr-secondary));
+}
+
+#search-results {
+  display: grid;
+  gap: 1rem;
+}
+
+article {
+  border: 2px solid hsl(var(--clr-accent));
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  display: grid;
+  gap: 1rem;
+}
+
+a {
+  color: hsl(var(--clr-secondary));
+  text-decoration: none;
+  border-radius: 4px;
+  transition: box-shadow 200ms cubic-bezier(0.66, -0.2, 0.27, 1.15),
+    color 200ms cubic-bezier(0.66, -0.2, 0.27, 1.15);
+}
+
+a:where(:active, :hover) {
+  opacity: 0.8;
+}
+
+a:focus {
+  outline: 1px solid transparent;
+}
+
+a:focus-visible {
+  box-shadow: 0 0 0 hsl(var(--clr-secondary) / 0.3),
+    0 0 0 0.2em hsl(var(--clr-bg)), 0 0 0 0.4em hsl(var(--clr-secondary) / 0.5);
+}
+
+.btn {
+  font-size: 16px;
+  display: flex;
+  place-items: center;
+  max-width: fit-content;
+  gap: 0.5em;
+  background-color: hsl(var(--clr-secondary));
+  color: hsl(var(--clr-bg));
+  text-decoration: none;
+  padding: 0.4em 1.4em;
+  border-radius: 0.2em;
+  border-color: transparent;
+  cursor: pointer;
+  box-shadow: 0.05em 0.1em 0.9em hsl(var(--clr-secondary) / 0.3),
+    0 0 0 -0.1em hsl(var(--clr-bg)), 0 0 0 -0.2em hsl(var(--clr-secondary));
+  transition: box-shadow 200ms cubic-bezier(0.66, -0.2, 0.27, 1.15),
+    background-color 200ms cubic-bezier(0.66, -0.2, 0.27, 1.15);
+}
+
+[type="submit"] {
+  padding: 0.1em 0.6em;
+  height: 100%;
+  aspect-ratio: 1/1;
+}
+
+.btn:where(:active, :hover) {
+  background-color: hsl(var(--clr-secondary) / 0.8);
+  box-shadow: 0 0 0 hsl(var(--clr-secondary) / 0.3),
+    0 0 0 -0.1em hsl(var(--clr-bg)), 0 0 0 -0.2em hsl(var(--clr-secondary));
+}
+
+.btn :where(svg, img, span) {
+  pointer-events: none;
+}
+
+.btn :where(svg, img) {
+  width: 16px;
+}
+
+.btn:focus {
+  outline: 1px solid transparent;
+}
+
+.btn:focus-visible {
+  box-shadow: 0 0 0 hsl(var(--clr-secondary)), 0 0 0 0.2em hsl(var(--clr-bg)),
+    0 0 0 0.4em hsl(var(--clr-secondary));
+}

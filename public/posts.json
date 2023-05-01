@@ -1,0 +1,289 @@
+[
+  {
+    "title": "10 Tips for Writing Clean HTML and CSS",
+    "description": "Learn how to write clean and maintainable HTML and CSS with these 10 tips.",
+    "date": "2022-01-05",
+    "tags": ["HTML", "CSS", "Web Development"],
+    "href": "/blog/10-tips-for-writing-clean-html-and-css"
+  },
+  {
+    "title": "The Pros and Cons of CSS Frameworks",
+    "description": "CSS frameworks can speed up development, but they also have their drawbacks. Learn about the pros and cons of using CSS frameworks in your projects.",
+    "date": "2022-02-12",
+    "tags": ["CSS", "Web Development"],
+    "href": "/blog/the-pros-and-cons-of-css-frameworks"
+  },
+  {
+    "title": "5 Essential JavaScript Libraries for Frontend Developers",
+    "description": "Discover 5 JavaScript libraries that can help you build better frontend applications.",
+    "date": "2022-03-19",
+    "tags": ["JavaScript", "Web Development"],
+    "href": "/blog/5-essential-javascript-libraries-for-frontend-developers"
+  },
+  {
+    "title": "How to Optimize Your Images for the Web",
+    "description": "Learn how to optimize your images for the web to improve your website's performance and user experience.",
+    "date": "2022-04-26",
+    "tags": ["Web Development", "Images"],
+    "href": "/blog/how-to-optimize-your-images-for-the-web"
+  },
+  {
+    "title": "The Fundamentals of Responsive Web Design",
+    "description": "Get started with responsive web design and learn how to create websites that look great on any device.",
+    "date": "2022-05-03",
+    "tags": ["Web Development", "Responsive Design"],
+    "href": "/blog/the-fundamentals-of-responsive-web-design"
+  },
+  {
+    "title": "10 Common Mistakes in Frontend Web Development",
+    "description": "Avoid these 10 common mistakes in frontend web development to save time and improve your code.",
+    "date": "2022-06-11",
+    "tags": ["Web Development"],
+    "href": "/blog/10-common-mistakes-in-frontend-web-development"
+  },
+  {
+    "title": "How to Use Flexbox for Layout in CSS",
+    "description": "Learn how to use Flexbox to create flexible and responsive layouts in CSS.",
+    "date": "2022-07-18",
+    "tags": ["CSS", "Web Development", "Flexbox"],
+    "href": "/blog/how-to-use-flexbox-for-layout-in-css"
+  },
+  {
+    "title": "5 Tips for Writing Better JavaScript Code",
+    "description": "Improve your JavaScript skills with these 5 tips for writing better code.",
+    "date": "2022-08-25",
+    "tags": ["JavaScript", "Web Development"],
+    "href": "/blog/5-tips-for-writing-better-javascript-code"
+  },
+  {
+    "title": "The Benefits of Using a CSS Preprocessor",
+    "description": "Discover the benefits of using a CSS preprocessor like Sass or Less in your web development projects.",
+    "date": "2022-09-01",
+    "tags": ["CSS", "Web Development", "Preprocessors"],
+    "href": "/blog/the-benefits-of-using-a-css-preprocessor"
+  },
+  {
+    "title": "How to Create Animations with CSS",
+    "description": "Learn how to create animations with CSS and add some life to your web projects.",
+    "date": "2022-10-08",
+    "tags": ["CSS", "Web Development", "Animations"],
+    "href": "/blog/how-to-create-animations-with-css"
+  },
+  {
+    "title": "The Basics of Accessibility in Web Development",
+    "description": "Learn about the basics of accessibility in web development and how to make your websites more inclusive.",
+    "date": "2022-11-15",
+    "tags": ["Web Development", "Accessibility"],
+    "href": "/blog/the-basics-of-accessibility-in-web-development"
+  },
+  {
+    "title": "10 Tools for Debugging JavaScript",
+    "description": "Discover 10 tools that can help you debug your JavaScript code and save time in your projects.",
+    "date": "2022-12-22",
+    "tags": ["JavaScript", "Web Development", "Debugging"],
+    "href": "/blog/10-tools-for-debugging-javascript"
+  },
+  {
+    "title": "How to Use CSS Grid for Layout",
+    "description": "Learn how to use CSS Grid to create powerful and flexible layouts in your web projects.",
+    "date": "2023-01-05",
+    "tags": ["CSS", "Web Development", "Grid"],
+    "href": "/blog/how-to-use-css-grid-for-layout"
+  },
+  {
+    "title": "The Pros and Cons of Single-Page Applications",
+    "description": "Single-page applications have become increasingly popular, but they also have their drawbacks. Learn about the pros and cons of using single-page applications in your projects.",
+    "date": "2023-02-12",
+    "tags": ["Web Development", "Single-Page Applications"],
+    "href": "/blog/the-pros-and-cons-of-single-page-applications"
+  },
+  {
+    "title": "5 Essential Tools for Frontend Web Developers",
+    "description": "Discover 5 tools that can help you be more productive and efficient as a frontend web developer.",
+    "date": "2023-03-19",
+    "tags": ["Web Development", "Tools"],
+    "href": "/blog/5-essential-tools-for-frontend-web-developers"
+  },
+  {
+    "title": "How to Optimize Your CSS for Better Performance",
+    "description": "Learn how to optimize your CSS for better performance and faster load times.",
+    "date": "2023-04-26",
+    "tags": ["CSS", "Web Development", "Performance"],
+    "href": "/blog/how-to-optimize-your-css-for-better-performance"
+  },
+  {
+    "title": "The Basics of Responsive Images in Web Development",
+    "description": "Learn about the basics of responsive images in web development and how to make your images look great on any device.",
+    "date": "2023-05-03",
+    "tags": ["Web Development", "Images", "Responsive Design"],
+    "href": "/blog/the-basics-of-responsive-images-in-web-development"
+  },
+  {
+    "title": "10 Tips for Writing Better JavaScript Code",
+    "description": "Improve your JavaScript skills with these 10 tips for writing better code.",
+    "date": "2023-06-11",
+    "tags": ["JavaScript", "Web Development"],
+    "href": "/blog/10-tips-for-writing-better-javascript-code"
+  },
+  {
+    "title": "How to Use CSS Variables for Dynamic Styling",
+    "description": "Learn how to use CSS variables to create dynamic and flexible styles in your web projects.",
+    "date": "2023-07-18",
+    "tags": ["CSS", "Web Development", "Variables"],
+    "href": "/blog/how-to-use-css-variables-for-dynamic-styling"
+  },
+  {
+    "title": "The Benefits of Using a JavaScript Framework",
+    "description": "Discover the benefits of using a JavaScript framework like React or Angular in your web development projects.",
+    "date": "2023-08-25",
+    "tags": ["JavaScript", "Web Development", "Frameworks"],
+    "href": "/blog/the-benefits-of-using-a-javascript-framework"
+  },
+  {
+    "title": "The Basics of Web Accessibility",
+    "description": "Learn about the basics of web accessibility and how to make your websites more inclusive.",
+    "date": "2023-09-01",
+    "tags": ["Web Development", "Accessibility"],
+    "href": "/blog/the-basics-of-web-accessibility"
+  },
+  {
+    "title": "10 Essential VS Code Extensions for Web Developers",
+    "description": "Discover 10 essential VS Code extensions that can help you be more productive as a web developer.",
+    "date": "2023-10-08",
+    "tags": ["Web Development", "Tools"],
+    "href": "/blog/10-essential-vs-code-extensions-for-web-developers"
+  },
+  {
+    "title": "How to Create a Responsive Navigation Menu",
+    "description": "Learn how to create a responsive navigation menu that works well on any device.",
+    "date": "2023-11-15",
+    "tags": ["Web Development", "Responsive Design"],
+    "href": "/blog/how-to-create-a-responsive-navigation-menu"
+  },
+  {
+    "title": "The Pros and Cons of Serverless Architecture",
+    "description": "Serverless architecture has become increasingly popular, but it also has its drawbacks. Learn about the pros and cons of using serverless architecture in your projects.",
+    "date": "2023-12-22",
+    "tags": ["Web Development", "Serverless"],
+    "href": "/blog/the-pros-and-cons-of-serverless-architecture"
+  },
+  {
+    "title": "10 Tips for Writing Better CSS Code",
+    "description": "Improve your CSS skills with these 10 tips for writing better code.",
+    "date": "2024-01-05",
+    "tags": ["CSS", "Web Development"],
+    "href": "/blog/10-tips-for-writing-better-css-code"
+  },
+  {
+    "title": "How to Use JavaScript to Create Interactive Web Pages",
+    "description": "Learn how to use JavaScript to create interactive web pages and engage your users.",
+    "date": "2024-02-12",
+    "tags": ["JavaScript", "Web Development"],
+    "href": "/blog/how-to-use-javascript-to-create-interactive-web-pages"
+  },
+  {
+    "title": "The Basics of CSS Animations",
+    "description": "Learn about the basics of CSS animations and how to add some life to your web projects.",
+    "date": "2024-03-19",
+    "tags": ["CSS", "Web Development", "Animations"],
+    "href": "/blog/the-basics-of-css-animations"
+  },
+  {
+    "title": "10 Common Mistakes in JavaScript Development",
+    "description": "Avoid these 10 common mistakes in JavaScript development to save time and improve your code.",
+    "date": "2024-04-26",
+    "tags": ["JavaScript", "Web Development"],
+    "href": "/blog/10-common-mistakes-in-javascript-development"
+  },
+  {
+    "title": "How to Use CSS Transitions for Smooth Animations",
+    "description": "Learn how to use CSS transitions to create smooth and engaging animations in your web projects.",
+    "date": "2024-05-03",
+    "tags": ["CSS", "Web Development", "Animations"],
+    "href": "/blog/how-to-use-css-transitions-for-smooth-animations"
+  },
+  {
+    "title": "The Benefits of Using a CSS Framework",
+    "description": "Discover the benefits of using a CSS framework like Bootstrap or Foundation in your web development projects.",
+    "date": "2024-06-11",
+    "tags": ["CSS", "Web Development", "Frameworks"],
+    "href": "/blog/the-benefits-of-using-a-css-framework"
+  },
+  {
+    "title": "How to Use JavaScript to Manipulate the DOM",
+    "description": "Learn how to use JavaScript to manipulate the Document Object Model (DOM) and create dynamic web pages.",
+    "date": "2024-07-18",
+    "tags": ["JavaScript", "Web Development", "DOM"],
+    "href": "/blog/how-to-use-javascript-to-manipulate-the-dom"
+  },
+  {
+    "title": "The Basics of Responsive Typography",
+    "description": "Learn about the basics of responsive typography and how to make your text look great on any device.",
+    "date": "2024-08-25",
+    "tags": ["Web Development", "Typography", "Responsive Design"],
+    "href": "/blog/the-basics-of-responsive-typography"
+  },
+  {
+    "title": "10 Essential Git Commands for Web Developers",
+    "description": "Discover 10 essential Git commands that can help you manage your code and collaborate with others as a web developer.",
+    "date": "2024-09-01",
+    "tags": ["Web Development", "Git"],
+    "href": "/blog/10-essential-git-commands-for-web-developers"
+  },
+  {
+    "title": "How to Use CSS Grid for Responsive Layouts",
+    "description": "Learn how to use CSS Grid to create responsive and flexible layouts in your web projects.",
+    "date": "2024-10-08",
+    "tags": ["CSS", "Web Development", "Grid", "Responsive Design"],
+    "href": "/blog/how-to-use-css-grid-for-responsive-layouts"
+  },
+  {
+    "title": "The Pros and Cons of React Native",
+    "description": "React Native has become a popular choice for building mobile apps, but it also has its drawbacks. Learn about the pros and cons of using React Native in your projects.",
+    "date": "2024-11-15",
+    "tags": ["Mobile Development", "React Native"],
+    "href": "/blog/the-pros-and-cons-of-react-native"
+  },
+  {
+    "title": "5 Essential Node.js Libraries for Web Developers",
+    "description": "Discover 5 Node.js libraries that can help you build better web applications and improve your productivity as a web developer.",
+    "date": "2024-12-22",
+    "tags": ["Web Development", "Node.js"],
+    "href": "/blog/5-essential-node-js-libraries-for-web-developers"
+  },
+  {
+    "title": "How to Optimize Your Website for Search Engines",
+    "description": "Learn how to optimize your website for search engines and improve your visibility online.",
+    "date": "2025-01-05",
+    "tags": ["Web Development", "SEO"],
+    "href": "/blog/how-to-optimize-your-website-for-search-engines"
+  },
+  {
+    "title": "The Basics of Progressive Web Apps",
+    "description": "Learn about the basics of progressive web apps and how to create web applications that work offline and on mobile devices.",
+    "date": "2025-02-12",
+    "tags": ["Web Development", "Progressive Web Apps"],
+    "href": "/blog/the-basics-of-progressive-web-apps"
+  },
+  {
+    "title": "10 Tips for Writing Better HTML Code",
+    "description": "Improve your HTML skills with these 10 tips for writing better code.",
+    "date": "2025-03-19",
+    "tags": ["HTML", "Web Development"],
+    "href": "/blog/10-tips-for-writing-better-html-code"
+  },
+  {
+    "title": "How to Use JavaScript Promises",
+    "description": "Learn how to use JavaScript promises to handle asynchronous operations and improve the performance of your web applications.",
+    "date": "2025-04-26",
+    "tags": ["JavaScript", "Web Development", "Asynchronous Programming"],
+    "href": "/blog/how-to-use-javascript-promises"
+  },
+  {
+    "title": "The Basics of Responsive Tables",
+    "description": "Learn about the basics of responsive tables and how to make your tabular data look great on any device.",
+    "date": "2025-05-03",
+    "tags": ["Web Development", "Tables", "Responsive Design"],
+    "href": "/blog/the-basics-of-responsive-tables"
+  }
+]
